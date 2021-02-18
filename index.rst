@@ -38,7 +38,7 @@ or business network security you willl get 25 character alphanumeric activation 
 will receive on the registered Email id.
 
 
-`mcafee activate <http://mcafeecomactivateretailcard.com>`__.
+`mcafee.cpm/activate <http://mcafeecomactivateretailcard.com>`__.
 
 `mcafee com activate <http://mcafeecomactivateretailcard.com>`__.
 
@@ -59,7 +59,7 @@ password etc.
 
 `mcafee.com/activate <http://mcafeecomactivateretailcard.com>`__.
 
-`Mcafee Activate  <http://mcafeecomactivateretailcard.com>`__.
+`mcafee.cpm/activate  <http://mcafeecomactivateretailcard.com>`__.
 
 McAfee Internet Security provides trusted antivirus and identity safety for your computers/Personal computers or laptop 
 computers, smartphones and tablets. So, you can search, bank, and shop securely with all of the essentials like safe web 
